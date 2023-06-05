@@ -1,5 +1,5 @@
 # NeoFi-Assignment
-### Deployment Link: [https://neofi-assignment-git-main-shaunak-kayande.vercel.app/](https://neofi-assignment-git-main-shaunak-kayande.vercel.app/)
+### Deployment Link: https://neofi-frontend.netlify.app/
 
 ### This application was developed using React js
 ### To run this app 
