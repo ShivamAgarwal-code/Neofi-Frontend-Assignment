@@ -1,0 +1,13 @@
+* {
+  background-color: black;
+  color: white;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+.button {
+  background: linear-gradient(94.37deg, #3387d5 -5.94%, #7a06c9 115.34%);
+  border-radius: 30px;
+  color: white;
+}

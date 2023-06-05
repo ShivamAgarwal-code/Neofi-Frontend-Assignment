@@ -1,0 +1,58 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 60px;
+  background: #0b0819;
+}
+
+.logo {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  background: #0b0819;
+}
+
+.logo-pic {
+  display: grid;
+  padding-left: 40px;
+  padding-right: 10px;
+  background: #0b0819;
+  margin-left: 80px;
+}
+
+.menu {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  color: #5a5a5a;
+  gap: 15px;
+  margin-left: 170px;
+  background: #0b0819;
+}
+
+.menu-items {
+  padding-left: 15px;
+  padding-right: 15px;
+  background: #0b0819;
+}
+
+#trade {
+  display: flex;
+  height: 100%;
+  padding-top: 3px;
+  color: #627eea;
+  border-bottom: #627eea 3px solid;
+  align-items: center;
+}
+
+#connectwallet {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 35px;
+  width: 130px;
+  margin-right: 120px;
+  padding: 0 5px 0 5px;
+}
